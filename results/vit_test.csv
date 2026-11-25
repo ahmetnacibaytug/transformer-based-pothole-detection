@@ -1,0 +1,5 @@
+class,precision,recall,f1,support
+normal,0.9701,0.9242,0.9466,211
+pothole,0.9292,0.9722,0.9502,216
+macro_avg,0.9497,0.9482,0.9484,427
+weighted_avg,0.9494,0.9485,0.9484,427

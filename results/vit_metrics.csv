@@ -1,0 +1,2 @@
+model,test_n,correct,accuracy,loss,macro_f1
+vit_base_patch16_224,427,405,0.9485,0.1843,0.9484
